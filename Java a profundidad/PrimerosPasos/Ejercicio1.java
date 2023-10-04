@@ -7,7 +7,7 @@ del cual no se entuende su funcionalidad a simple vista, haz uso de los conocimi
 identificadores para que sea algo dificil de entender
 */
 import java.util.Scanner;
-public class Ejercicios {
+public class Ejercicio1 {
     public static void main (String[] args){
         Scanner input = new Scanner(System.in);
         int opcion;

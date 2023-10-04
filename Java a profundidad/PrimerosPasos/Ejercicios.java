@@ -46,8 +46,8 @@ public class Ejercicios {
     public static void CalcularAreaCuadrado(){
         Scanner input = new Scanner(System.in);
         System.out.println("Ingrese el lado del cuadrado: ");
-        float lado = input.nextFloat();
-        float area = lado * lado;
+        double lado = input.nextFloat();
+        double area = lado * lado;
         System.out.println("El area del cuadrado es "+area);
         input.close();
     }

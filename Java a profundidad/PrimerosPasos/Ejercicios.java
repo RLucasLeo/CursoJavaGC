@@ -46,10 +46,9 @@ public class Ejercicios {
     public static void CalcularAreaCuadrado(){
         Scanner input = new Scanner(System.in);
         System.out.println("Ingrese el lado del cuadrado: ");
-        double lado = input.nextFloat();
+        int lado = input.nextInt();
         double area = lado * lado;
         System.out.println("El area del cuadrado es "+area);
-        input.close();
     }
 
     public static void CalcularAreaCirculo(){
@@ -58,7 +57,6 @@ public class Ejercicios {
         double radio = input.nextDouble();
         double area = Math.PI * Math.pow(radio, 2);
         System.out.println("El area del circulo es "+area);
-        input.close();
     }
 
      public static void CalcularAreaRectangulo() {
@@ -69,7 +67,6 @@ public class Ejercicios {
         double anchura = input.nextDouble();
         double area = longitud * anchura;
         System.out.println("El área del rectángulo es: " + area);
-        input.close();
     }
 
     public static void CalcularAreaTriangulo() {
@@ -80,6 +77,5 @@ public class Ejercicios {
         double altura = input.nextDouble();
         double area = (base * altura) / 2;
         System.out.println("El área del triángulo es: " + area);
-        input.close();
     }
 }

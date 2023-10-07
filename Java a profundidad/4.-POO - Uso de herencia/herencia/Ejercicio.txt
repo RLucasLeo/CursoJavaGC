@@ -1,0 +1,11 @@
+/*
+ * Ejercicio1
+ * Plantea 5 escenarios que hagan uso de herencia, recuerda que deben pasar las reglas IS-A o ES-UN
+ * 
+ * Ejercicio2
+ * Utiliza el diagrama anterior y haz un programa que lo represente. Cada clase debe tener
+ * mas de un constructor y todo debe funcionar correctamente, haz uso de la palabra reservada super
+ * 
+ * Ejercicio3
+ * Sobreescribe al menos uno de los metodos del ejercicio anterior
+ */

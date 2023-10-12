@@ -1,0 +1,8 @@
+Ejercicio1
+Crear un arreglo de cada tipo de dato: boolean, byte, short, int, char, float, long y double
+Ejercicio2
+Crear un arreglo irregular en forma de triangulo
+Ejercicio3
+Crear un arreglo de tipo Mascota y llenarlo con objetos de diferentes subtipos
+Ejercicio4
+Realizar 2 arreglos bidimensionales de las mismas dimensiones y sumarlos

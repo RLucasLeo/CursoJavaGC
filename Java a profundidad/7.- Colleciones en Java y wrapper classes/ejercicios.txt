@@ -1,0 +1,11 @@
+Ejercicio1
+Crea una lista de mascotas modificando el ejemplo realizado en la sesion anterior
+Ejercicio2
+Crea una implementacion propia de una lista ligada, te recomendamos crear una clase Nodo 
+que tenga como atributos una referencia al nodo siguiente y al anterior, debe soportar las opreaciones agregar elemento, borrar y buscar
+Ejercicio3
+Crea una clase que administre los elementos de una lista y te permita agregar, borrar y buscar
+un elemento. El unico requisito es que la lista no permita datos duplicados.
+Ejercicio4
+Crea una implementacion de alguna de las colecciones para esto debes crear una
+clase que implemente una de las interfaces List, Set, Map, Queue

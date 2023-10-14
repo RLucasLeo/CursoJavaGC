@@ -1,0 +1,21 @@
+Ejercicio1
+Crea un programa donde un hilo haga una cuenta regresiva dado un numero, el tiempo que debe esperar
+el hilo debe ser aleatorio. Inicia 10 hilos y revisa que hilo termino primero, asegurate de colocarle un nombre a cada uno de ellos
+Ejercicio2
+Modifica el programa anterior para que todos los hilos esperen el mismo tiempo, asignale diferentes
+prioridades a cada uno de ellos y lanza 30 hilos, revisa si el cambio de prioridad generó algun cambio
+Ejercicio3
+Simula un programa que haga transacciones bancarias donde se tengan que llevar a cabo las 
+siguientes opreaciones al retirar dinero
+-Validar el monto recibido
+-Consultar saldo en la cuenta y validar si es suficiente para retirar el monto
+-Restar el monto al saldo
+-Devolver el monot a quien invoco el metodo
+-Imprimir que se realizói el retiro con exito
+Ejecuta las opreaciones sobre la cuenta con varios hilos sin utilizar sincronizacion, te recomendamos hacer varios retiros,
+despues hazlo de nuevo con sincronizacion
+Ejercicio4
+Programa el algoritmo de los hilos fumadores, debes tener 3 hilos que son los fumadores, ellos necesitan
+3 cosas para fumar, papel, tabaco y cerillo. A demas debes tener 3 hilos productores, cada uno producira un material diferente
+Una vezque se encuentres los 3 materiales notifica a los hilos que pueden ir por sus materiales para fumar, si no hay materiales los hilos
+fumadores se deben ir a un estado waiting

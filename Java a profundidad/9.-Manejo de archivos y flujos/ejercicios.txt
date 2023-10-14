@@ -1,0 +1,6 @@
+Ejercicio1
+Programa el comando dir para listar losa rchivos e un directorio especificado
+Ejercicio2
+Programa el comando cp para copiar un archivo de un lugar a otro
+Ejercicio3
+Programa el comando mv para mover un archivo de un lugar a otro

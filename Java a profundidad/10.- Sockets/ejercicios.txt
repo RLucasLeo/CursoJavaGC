@@ -1,0 +1,16 @@
+Ejercicio1
+Crea un programa que a traves de un socket envie un mensaje, depende del mensaje el servidor
+impimira iniciando, reiniciando o apagando
+Ejercicio2
+Crea un programa donde el cliente pueda  enviar un archivo al servidor
+Ejercicio3
+Crea un programa donde el cliente pueda enviar un objeto llamado HTTPRequest que contenga
+los siguietnes atributos
+-Body string
+-headers Map<String, String>
+
+El servidor deberà responder un mensaje con los siguientes atributos:
+-Body string
+-Headers Map <String, String>
+-HttpStatus Integer
+Puedes seleccionar la accion a realizar, te recomendamos que sea algo simple como la suma de dos numeros.
